@@ -4,20 +4,15 @@ FullStack dev nano degree Udacity Restaurant menu
 Restaurant Menu Project
 Using all the knowledge from the Nano degree to fabricate a flask app using python
 
-Requirments
-Vagrant 
-VM
-
-
 Using Git Bash:
-$ vagrant up
-$ vagrant ssh
-$ cd /vagrant/
-#Setting up the Database
-$ python database_setup.py
-#This will initialize the database and create a database_setup.db
-#to populate the database
-$ python lotsofmenus.py 
+1. $ vagrant up
+2. $ vagrant ssh
+3. $ cd /vagrant/
+  #Setting up the Database
+4. $ python database_setup.py
+  #This will initialize the database and create a database_setup.db
+  #to populate the database
+5. $ python lotsofmenus.py 
 
 
 Usage
