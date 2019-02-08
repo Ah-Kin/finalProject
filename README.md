@@ -8,11 +8,8 @@ Using Git Bash:
 1. $ vagrant up
 2. $ vagrant ssh
 3. $ cd /vagrant/
-  #Setting up the Database
-4. $ python database_setup.py
-  #This will initialize the database and create a database_setup.db
-  #to populate the database
-5. $ python lotsofmenus.py 
+4. $ python database_setup.py #Setting up the Database
+5. $ python lotsofmenus.py #to populate the database
 
 
 Usage
