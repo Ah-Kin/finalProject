@@ -4,6 +4,24 @@ FullStack dev nano degree Udacity Restaurant menu
 Restaurant Menu Project
 Using all the knowledge from the Nano degree to fabricate a flask app using python
 
+Dependencies
+VirtualBox
+
+https://www.virtualbox.org/
+
+Vagrant
+
+https://www.vagrantup.com/
+
+SQL Alchemy
+
+http://www.sqlalchemy.org/
+
+Flask
+
+http://flask.pocoo.org/
+
+Setup
 Using Git Bash:
 1. $ vagrant up
 2. $ vagrant ssh
